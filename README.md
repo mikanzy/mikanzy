@@ -24,4 +24,5 @@ I am attracted by the opportunity to use data to effectively solve actual practi
 - *Math*: Calculus, Linear algebra, Statistics
 - *ML*: Classic ML, Time series forecasting, Neural Networks, NLP, Computer vision
 - *Python*: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost, Optuna, SHAP, PyTorch, TensorFlow/Keras, Transformers
+- SQL (mainly PostgreSQL)
 - *Environment*: VS Code, Jupyter, Conda, Git, Bash, Debian Linux
