@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-After 10+ years of expirience at the National Metrological Research Institute, I decided to change my field of work to **Data Science**, Machine Learning and AI. 
+My name is **Mikhail** - *aka* Michael. After 10+ years of expirience at the National Metrological Research Institute, I decided to change my field of work to **Data Science**, Machine Learning and AI. 
 
 I am attracted by the opportunity to use data to effectively solve actual practical problems. 
 
