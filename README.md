@@ -19,10 +19,9 @@ After 10+ years of expirience at the National Metrological Research Institute, I
 
 I am attracted by the opportunity to use data to effectively solve actual practical problems. 
 
-📚️ My stack:
-Math: Calculus, Linear algebra, Statistics
-ML: Classic ML, Time series forecasting, Neural Networks, NLP, Computer vision
-Python: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost, Optuna, SHAP, PyTorch, TensorFlow/Keras, Transformers
-IDE: VS Code, Jupyter
-Shell: Bash
-OS: Debian Linux
+
+📚️ **My stack**:
+- *Math*: Calculus, Linear algebra, Statistics
+- *ML*: Classic ML, Time series forecasting, Neural Networks, NLP, Computer vision
+- *Python*: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost, Optuna, SHAP, PyTorch, TensorFlow/Keras, Transformers
+- *Environment*: VS Code, Jupyter, Conda, Git, Bash, Debian Linux
