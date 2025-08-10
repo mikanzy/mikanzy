@@ -20,9 +20,9 @@ My name is **Mikhail** - *aka* Michael. After 10+ years of expirience at the Nat
 I am attracted by the opportunity to use data to effectively solve actual practical problems. 
 
 
-📚️ **My stack**:
+📚️ **My skills**:
 - *Math*: Calculus, Linear algebra, Statistics
 - *ML*: Classic ML, Time series forecasting, Neural Networks, NLP, Computer vision
 - *Python*: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost, Optuna, SHAP, PyTorch, TensorFlow/Keras, Transformers
-- SQL (mainly PostgreSQL)
+- *SQL* (mainly PostgreSQL)
 - *Environment*: VS Code, Jupyter, Conda, Git, Bash, Debian Linux
